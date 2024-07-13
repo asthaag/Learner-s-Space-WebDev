@@ -1,0 +1,28 @@
+body.light {
+  background-color: white;
+  color: black;
+}
+
+body.dark {
+  background-color: #121212;
+  color: white;
+}
+
+.card.dark {
+  background-color: #1e1e1e;
+}
+
+.form-control.dark {
+  background-color: #1e1e1e;
+  color: white;
+}
+
+.btn-dark {
+  background-color: #3e3e3e;
+  color: white;
+}
+
+
+.maindiv{
+  display: flex;
+}
